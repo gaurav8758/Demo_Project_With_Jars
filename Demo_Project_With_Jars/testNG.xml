@@ -1,0 +1,43 @@
+<suite name="My Test Suite" parallel="methods" thread-count="2">
+
+<!--QC Credentials-->
+<parameter name="QCFlag" value="false"></parameter> 
+
+<parameter name="QCURL" value="http://216.231.66.22:9080/qcbin"></parameter> 
+<parameter name="QCUserName" value="gagarw01"></parameter> 
+<parameter name="QCPassword" value="test"></parameter> 
+<parameter name="QCDomain" value="WEB_DB"></parameter> 
+<parameter name="QCProject" value="2425_ProviderPortal"></parameter> 
+
+<parameter name="TestFolderPath" value="PHASE 1A\TestSelenium"></parameter> 
+<!--QC Credentials-->
+ 
+<parameter name="driver" value="C:\\Automation_Framework\\Drivers\\"></parameter> 
+<parameter name="URL" value="http://facebook.com"></parameter> 
+<parameter name="DatatablePath" value="C:\Automation_Framework\DataTable\"></parameter> 
+ 
+<test name="Firefox Test">
+  <parameter name="browser" value="Firefox"></parameter>
+  <parameter name="TestSetName" value="TestSelenium_Firefox"></parameter> 
+  <parameter name="TestSetID" value="6601"></parameter> 
+  <packages>
+   <package name="TestScripts" />   
+  </packages>
+</test>
+
+<test name="Chrome Test">
+  <parameter name="browser" value="Chrome"></parameter>
+  <parameter name="TestSetName" value="TestSelenium_Chrome"></parameter> 
+  <parameter name="TestSetID" value="6602"></parameter> 
+  <packages>
+   <package name="TestScripts" />   
+  </packages>
+</test>
+
+  <listeners>
+  <listener class-name="Utility.RetryListener"/>
+  <listener class-name="atu.testng.reports.listeners.ATUReportsListener"></listener>
+  <listener class-name="atu.testng.reports.listeners.ConfigurationListener"></listener>
+  <listener class-name="atu.testng.reports.listeners.MethodListener"></listener>
+  </listeners>
+</suite>

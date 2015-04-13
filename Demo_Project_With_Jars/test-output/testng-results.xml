@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[STEP1]]>
+    </line>
+    <line>
+      <![CDATA[STEP2]]>
+    </line>
+    <line>
+      <![CDATA[STEP3]]>
+    </line>
+    <line>
+      <![CDATA[STEP4]]>
+    </line>
+    <line>
+      <![CDATA[STEP5]]>
+    </line>
+    <line>
+      <![CDATA[STEP6]]>
+    </line>
+    <line>
+      <![CDATA[STEP7]]>
+    </line>
+    <line>
+      <![CDATA[STEP8]]>
+    </line>
+    <line>
+      <![CDATA[STEP9]]>
+    </line>
+    <line>
+      <![CDATA[STEP10]]>
+    </line>
+    <line>
+      <![CDATA[STEP11]]>
+    </line>
+    <line>
+      <![CDATA[STEP12]]>
+    </line>
+    <line>
+      <![CDATA[STEP13]]>
+    </line>
+    <line>
+      <![CDATA[STEP14]]>
+    </line>
+    <line>
+      <![CDATA[STEP15]]>
+    </line>
+    <line>
+      <![CDATA[STEP16]]>
+    </line>
+    <line>
+      <![CDATA[STEP17]]>
+    </line>
+    <line>
+      <![CDATA[STEP18]]>
+    </line>
+    <line>
+      <![CDATA[STEP19]]>
+    </line>
+    <line>
+      <![CDATA[STEP20]]>
+    </line>
+    <line>
+      <![CDATA[STEP21]]>
+    </line>
+    <line>
+      <![CDATA[STEP22]]>
+    </line>
+    <line>
+      <![CDATA[STEP23]]>
+    </line>
+    <line>
+      <![CDATA[STEP24]]>
+    </line>
+    <line>
+      <![CDATA[STEP25]]>
+    </line>
+    <line>
+      <![CDATA[STEP26]]>
+    </line>
+    <line>
+      <![CDATA[STEP27]]>
+    </line>
+    <line>
+      <![CDATA[STEP28]]>
+    </line>
+    <line>
+      <![CDATA[STEP29]]>
+    </line>
+    <line>
+      <![CDATA[STEP30]]>
+    </line>
+    <line>
+      <![CDATA[STEP31]]>
+    </line>
+    <line>
+      <![CDATA[STEP32]]>
+    </line>
+    <line>
+      <![CDATA[STEP33]]>
+    </line>
+    <line>
+      <![CDATA[STEP34]]>
+    </line>
+  </reporter-output>
+  <suite name="My Test Suite" duration-ms="47347" started-at="2015-04-12T22:10:00Z" finished-at="2015-04-12T22:10:48Z">
+    <groups>
+    </groups>
+    <test name="Firefox Test" duration-ms="30957" started-at="2015-04-12T22:10:00Z" finished-at="2015-04-12T22:10:31Z">
+      <class name="TestScripts.Test01">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, boolean)[pri:0, instance:TestScripts.Test01@7cf10a6f]" name="setUp" is-config="true" duration-ms="22197" started-at="2015-04-12T17:10:00Z" finished-at="2015-04-12T17:10:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://facebook.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[C:\\Automation_Framework\\Drivers\\]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[C:\Automation_Framework\DataTable\]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://216.231.66.22:9080/qcbin]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[gagarw01]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[WEB_DB]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[2425_ProviderPortal]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[PHASE 1A\TestSelenium]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[TestSelenium_Firefox]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[6601]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[STEP1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testcase01()[pri:0, instance:TestScripts.Test01@7cf10a6f]" name="testcase01" duration-ms="8409" started-at="2015-04-12T17:10:23Z" finished-at="2015-04-12T17:10:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP3]]>
+            </line>
+            <line>
+              <![CDATA[STEP4]]>
+            </line>
+            <line>
+              <![CDATA[STEP8]]>
+            </line>
+            <line>
+              <![CDATA[STEP9]]>
+            </line>
+            <line>
+              <![CDATA[STEP10]]>
+            </line>
+            <line>
+              <![CDATA[STEP11]]>
+            </line>
+            <line>
+              <![CDATA[STEP12]]>
+            </line>
+            <line>
+              <![CDATA[STEP13]]>
+            </line>
+            <line>
+              <![CDATA[STEP14]]>
+            </line>
+            <line>
+              <![CDATA[STEP15]]>
+            </line>
+            <line>
+              <![CDATA[STEP16]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase01 -->
+        <test-method status="PASS" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:TestScripts.Test01@7cf10a6f]" name="closeBrowser" is-config="true" duration-ms="335" started-at="2015-04-12T17:10:31Z" finished-at="2015-04-12T17:10:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testcase01 status=SUCCESS method=Test01.testcase01()[pri:0, instance:TestScripts.Test01@7cf10a6f] output=STEP3]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScripts.Test01 -->
+      <class name="TestScripts.Test02">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, boolean)[pri:0, instance:TestScripts.Test02@1134affc]" name="setUp" is-config="true" duration-ms="22218" started-at="2015-04-12T17:10:00Z" finished-at="2015-04-12T17:10:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://facebook.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[C:\\Automation_Framework\\Drivers\\]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[C:\Automation_Framework\DataTable\]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://216.231.66.22:9080/qcbin]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[gagarw01]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[WEB_DB]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[2425_ProviderPortal]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[PHASE 1A\TestSelenium]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[TestSelenium_Firefox]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[6601]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[STEP2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testcase02()[pri:0, instance:TestScripts.Test02@1134affc]" name="testcase02" duration-ms="8418" started-at="2015-04-12T17:10:23Z" finished-at="2015-04-12T17:10:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP5]]>
+            </line>
+            <line>
+              <![CDATA[STEP6]]>
+            </line>
+            <line>
+              <![CDATA[STEP7]]>
+            </line>
+            <line>
+              <![CDATA[STEP17]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase02 -->
+        <test-method status="PASS" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:TestScripts.Test02@1134affc]" name="closeBrowser" is-config="true" duration-ms="173" started-at="2015-04-12T17:10:31Z" finished-at="2015-04-12T17:10:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testcase02 status=SUCCESS method=Test02.testcase02()[pri:0, instance:TestScripts.Test02@1134affc] output=STEP5]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScripts.Test02 -->
+    </test> <!-- Firefox Test -->
+    <test name="Chrome Test" duration-ms="16374" started-at="2015-04-12T22:10:31Z" finished-at="2015-04-12T22:10:48Z">
+      <class name="TestScripts.Test01">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, boolean)[pri:0, instance:TestScripts.Test01@1e643faf]" name="setUp" is-config="true" duration-ms="12128" started-at="2015-04-12T17:10:31Z" finished-at="2015-04-12T17:10:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://facebook.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[C:\\Automation_Framework\\Drivers\\]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[C:\Automation_Framework\DataTable\]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://216.231.66.22:9080/qcbin]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[gagarw01]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[WEB_DB]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[2425_ProviderPortal]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[PHASE 1A\TestSelenium]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[TestSelenium_Chrome]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[6602]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[STEP19]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testcase01()[pri:0, instance:TestScripts.Test01@1e643faf]" name="testcase01" duration-ms="1184" started-at="2015-04-12T17:10:43Z" finished-at="2015-04-12T17:10:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP20]]>
+            </line>
+            <line>
+              <![CDATA[STEP21]]>
+            </line>
+            <line>
+              <![CDATA[STEP22]]>
+            </line>
+            <line>
+              <![CDATA[STEP23]]>
+            </line>
+            <line>
+              <![CDATA[STEP24]]>
+            </line>
+            <line>
+              <![CDATA[STEP25]]>
+            </line>
+            <line>
+              <![CDATA[STEP27]]>
+            </line>
+            <line>
+              <![CDATA[STEP29]]>
+            </line>
+            <line>
+              <![CDATA[STEP31]]>
+            </line>
+            <line>
+              <![CDATA[STEP32]]>
+            </line>
+            <line>
+              <![CDATA[STEP33]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase01 -->
+        <test-method status="PASS" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:TestScripts.Test01@1e643faf]" name="closeBrowser" is-config="true" duration-ms="1156" started-at="2015-04-12T17:10:45Z" finished-at="2015-04-12T17:10:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testcase01 status=SUCCESS method=Test01.testcase01()[pri:0, instance:TestScripts.Test01@1e643faf] output=STEP20]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScripts.Test01 -->
+      <class name="TestScripts.Test02">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, int, boolean)[pri:0, instance:TestScripts.Test02@6e8dacdf]" name="setUp" is-config="true" duration-ms="11771" started-at="2015-04-12T17:10:31Z" finished-at="2015-04-12T17:10:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://facebook.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[C:\\Automation_Framework\\Drivers\\]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[C:\Automation_Framework\DataTable\]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[http://216.231.66.22:9080/qcbin]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[gagarw01]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[WEB_DB]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[2425_ProviderPortal]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[PHASE 1A\TestSelenium]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[TestSelenium_Chrome]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[6602]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[STEP18]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testcase02()[pri:0, instance:TestScripts.Test02@6e8dacdf]" name="testcase02" duration-ms="3433" started-at="2015-04-12T17:10:43Z" finished-at="2015-04-12T17:10:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[STEP26]]>
+            </line>
+            <line>
+              <![CDATA[STEP28]]>
+            </line>
+            <line>
+              <![CDATA[STEP30]]>
+            </line>
+            <line>
+              <![CDATA[STEP34]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase02 -->
+        <test-method status="PASS" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:TestScripts.Test02@6e8dacdf]" name="closeBrowser" is-config="true" duration-ms="1170" started-at="2015-04-12T17:10:47Z" finished-at="2015-04-12T17:10:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testcase02 status=SUCCESS method=Test02.testcase02()[pri:0, instance:TestScripts.Test02@6e8dacdf] output=STEP26]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- TestScripts.Test02 -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- My Test Suite -->
+</testng-results>
